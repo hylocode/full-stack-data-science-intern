@@ -63,10 +63,5 @@ pip install firefly-python rorolite
 
 [anaconda]: https://www.continuum.io/downloads
 
-## Facilitators’ Profile
-
-Anand Chitipothu has been crafting beautiful software since a decade and half. He's now building a data science platform, [rorodata](http://rorodata.com/), which he recently co-founded. He regularly conducts advanced programming courses through Pipal Academy. He is co-author of *web.py*, a micro web framework in Python. He has worked at Strand Life Sciences and Internet Archive. You can tweet him at [@anandology](https://twitter.com/anandology).
-
-Amit Kapoor teaches the craft of telling visual stories with data. He conducts workshops and trainings on Data Science in Python and R, as well as on Data Visualisation topics. His background is in strategy consulting having worked with AT Kearney in India, then with Booz & Company in Europe and more recently for startups in Bangalore. He did his B.Tech in Mechanical Engineering from IIT, Delhi and PGDM (MBA) from IIM, Ahmedabad. You can find more about him at http://amitkaps.com/ and tweet him at [@amitkaps](https://twitter.com/amitkaps).
-
-Bargava Subramanian is a practicing Data Scientist. He has 14 years of experience delivering business analytics solutions to Investment Banks, Entertainment Studios and High-Tech companies. He has given talks and conducted workshops on Data Science, Machine Learning, Deep Learning and Optimization in Python and R. He has a Masters in Statistics from University of Maryland, College Park, USA. He is an ardent NBA fan. You can tweet to him at [@bargava](https://twitter.com/bargava).
+##
+pagarba.io
